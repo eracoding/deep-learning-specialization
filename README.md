@@ -34,7 +34,7 @@ Lab-Assignments:
 ### Lab-Assignments:
 * Week1 - Practical Aspects of Deep Learning - [Gradient Checking](https://github.com/eracoding/deep-learning-specialization/tree/main/improving-deep-neural-networks/week1)
 * Week2 - Optimization Algorithms - [Optimization methods](https://github.com/eracoding/deep-learning-specialization/tree/main/improving-deep-neural-networks/week2)
-* Week3 - Hyperparameter Tuning, Batch Normalization & Programming Frameworks - [Tensorflow Introduction]https://github.com/eracoding/deep-learning-specialization/tree/main/improving-deep-neural-networks/week3)
+* Week3 - Hyperparameter Tuning, Batch Normalization & Programming Frameworks - [Tensorflow Introduction](https://github.com/eracoding/deep-learning-specialization/tree/main/improving-deep-neural-networks/week3)
 
 ## Course 3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects) 
 - Understand how to diagnose errors in a machine learning system, and 
