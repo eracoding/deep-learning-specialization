@@ -22,7 +22,6 @@ Foundations of Deep Learning:
 Lab-Assignments:
 * Week2 - Implementation of Logistic Regression - [Neural Network Basics](https://github.com/eracoding/deep-learning-specialization/tree/main/neural-network-and-deep-learning/Week2)
 * Week3 - Planar Data Classification with One Hidden Layer - [Shallow Neural Network Implementation](https://github.com/eracoding/deep-learning-specialization/tree/main/neural-network-and-deep-learning/Week3)
-# Coursera Deep Learning Specialization
 * Week4 - Implementation of Deep Neural Network 2/N layers - [Deep Neural Network](https://github.com/eracoding/deep-learning-specialization/tree/main/neural-network-and-deep-learning/Week4)
 
 ## Course 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network) 
